@@ -11,7 +11,7 @@ EduNexus aims to become the operating system for African schools, centralizing a
 
 The Student Information System:
 
-  Schools
+ * Schools
   
   Students
   
