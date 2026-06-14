@@ -1,7 +1,8 @@
 ## EduNexus MVP Milestones
-Version 0.1
 
-The Student Information System
+## Version 0.1
+
+The Student Information System:
 
   Schools
   
