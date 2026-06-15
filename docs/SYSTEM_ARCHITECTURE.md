@@ -111,8 +111,9 @@ Backend API Layer
         ├───────────────┐
         │               │
         ▼               ▼
+```
 
-EduNexus Connect/ communication architecture
+## EduNexus Connect/ communication architecture
 
 │
 
@@ -160,4 +161,4 @@ EduNexus Connect/ communication architecture
 
 Database Layer      AI Layer
 (Post
-```
+
